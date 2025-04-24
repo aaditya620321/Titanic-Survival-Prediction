@@ -18,7 +18,7 @@ This project is a machine learning solution to predict whether a passenger survi
 
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- Matplotlib,Seaborn
 - Scikit-learn
 - Flask
 - Pyngrok
